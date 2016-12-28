@@ -22,3 +22,4 @@ We can put together newly developed code in a managed way. Merge operation is re
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+There are some situation when human intervention is needed to solve conflicts. Auto merging is well enough when there is no conflict.
