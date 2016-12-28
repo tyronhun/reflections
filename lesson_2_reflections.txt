@@ -14,6 +14,7 @@ organized? How would branches help?
 Branches helps in paralell development. Commits can be organized in different threads, so it can be another layer of version management
 
 How do the diagrams help you visualize the branch structure?
+We can see which commits can be reachable from others
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
