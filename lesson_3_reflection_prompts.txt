@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    You can get updated with the latest version of shared repository as a kind of "Shared last good known state"
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
